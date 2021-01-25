@@ -1,0 +1,10 @@
+.vs
+Library
+obj
+Packages
+
+*.psd
+*.png
+*.jpg
+*.ai
+*.mat
